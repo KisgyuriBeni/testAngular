@@ -1,0 +1,8 @@
+{
+    "adatok": [
+      { "id": 1, "nev": "John Doe", "kor": 28, "varos": "New York", "email": "john.doe@example.com", "date":"2023-12-30" },
+      { "id": 2, "nev": "Jane Smith", "kor": 35, "varos": "Los Angeles", "email": "jane.smith@example.com", "date":"2006-01-12" },
+      { "id": 3, "nev": "Bob Johnson", "kor": 42, "varos": "Chicago", "email": "bob.johnson@example.com", "date":"2009-10-02" }
+    ]
+  }
+  
